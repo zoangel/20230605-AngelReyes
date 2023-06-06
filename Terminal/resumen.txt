@@ -1,0 +1,6 @@
+ls -> listar archivos
+touch -> crear archivo
+mkdir -> crear directorio
+history -> mostrar historial de comandos
+rm -> eliminar archivo
+

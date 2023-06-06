@@ -1,0 +1,6 @@
+Procesador
+Memoria principal: ROM, chaché, RAM, registros
+Memoria secundaria: HDD o SSD
+Tarjeta madre
+
+

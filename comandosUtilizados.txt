@@ -1,0 +1,33 @@
+  211  cd 'C:\Users\solic\Desktop\Digital House\Introducción a la Informática\Ejercicios\Examen_1'
+  212  mkdir touch
+  213  mkdir 20230605-AngelReyes
+  214  git init
+  215  git branch -M main
+  216  git remote add origin https://github.com/zoangel/20230605-AngelReyes.git
+  217  touch comandos.txt main.js index.html
+  218  git add .
+  219  git commit -m "commit 01 de AngelReyes"
+  220  git push -u origin main
+  221  git branch feature01
+  222* git checkout feature01
+  223  mkdir Terminal Hardware
+  224  touch Terminal/resumen.txt Hardware/resumen.txt
+  225  git add .
+  226  git commit -m "commit 02 de AngelReyes"
+  227  git push -u feature01 main
+  228  git push -u origin feature01
+  229  git branch feature02
+  230  git checkout branch02
+  231  git checkout feature02
+  232  nano Terminal/resumen.txt
+  233  nano Terminal/resumen.txt
+  234  nano Hardware/resumen.txt
+  235  nano Hardware/resumen.txt
+  236  git commit -m "commit 03 de AngelReyes"
+  237  git add .
+  238  git commit -m "commit 03 de AngelReyes"
+  239  git push -u origin feature02
+  240  git checkout main
+  241  mv comandos.txt comandosUtilizados.txt
+  242  ls
+  243  history
